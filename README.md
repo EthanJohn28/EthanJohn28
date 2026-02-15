@@ -1,6 +1,6 @@
 # 💻 Ethan John
 
-Welcome to my GitHub! I’m a high school student pursuing an **Associate of Arts in Computer Science** at **Howard Community College (HCC)** through dual enrollment. I plan to major in **Information Science (Data Science specialization)** with a minor in **Actuarial Mathematics**.  
+Welcome to my GitHub! I’m a high school student pursuing an **Associate of Arts in Computer Science** at **Howard Community College (HCC)** through dual enrollment, and planning to major in **Information Science (Data Science specialization)** with a minor in **Actuarial Mathematics**.  
 
 ---
 
