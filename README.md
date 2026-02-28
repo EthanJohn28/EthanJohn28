@@ -7,9 +7,13 @@ Welcome to my GitHub! I’m a high school student pursuing an **Associate of Art
 ## 📂 Projects
 
 - **[Student Mental Health Dashboard](https://github.com/EthanJohn28/Mental-Health-Dashboard)** – Interactive Streamlit dashboard integrating a model that predicts academic risk for students.  
-- **[Song Recommender](https://github.com/EthanJohn28/Song-Recommender)** – Recommendation system that suggests songs based on user preferences and features.  
 
 ---
+
+## ⚙️ Technical Skills
+
+- **Languages:** Python, R, SQL, Java  
+- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit, Joblib  
 
 ## 🎓 Education
 
