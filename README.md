@@ -6,27 +6,20 @@ Welcome to my GitHub! I’m a high school student pursuing an **Associate of Art
 
 ## 📂 Projects
 
-- **📊 [Student Mental Health Dashboard](https://github.com/EthanJohn28/Mental-Health-Dashboard)** – Interactive Streamlit dashboard integrating a model that predicts academic risk for students.  
-- **🎶 [Song Recommender](https://github.com/EthanJohn28/Song-Recommender)** – Recommendation system that suggests songs based on user preferences and features.  
+- **[Student Mental Health Dashboard](https://github.com/EthanJohn28/Mental-Health-Dashboard)** – Interactive Streamlit dashboard integrating a model that predicts academic risk for students.  
+- **[Song Recommender](https://github.com/EthanJohn28/Song-Recommender)** – Recommendation system that suggests songs based on user preferences and features.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-- **Languages:** Python, R, SQL, Java  
-- **Frameworks & Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Streamlit, Joblib  
-
----
-
-## 📈 Education
-
-**🎓 Howard Community College** *(Dual Enrollment – Associate of Arts in Computer Science, in progress)*  
+**Howard Community College** *(Dual Enrollment – Associate of Arts in Computer Science, in progress)*  
 
 **Relevant Coursework:**  
 - Introduction to Python (CMSY-156-300)  
 - Introduction to Business and Organization (BMGT-100-300)  
 
-**🏫 High School**  
+**High School**  
 
 **Relevant Coursework:**  
 - Programming Fundamentals G/T (CT-463-1)  
@@ -34,6 +27,6 @@ Welcome to my GitHub! I’m a high school student pursuing an **Associate of Art
 
 ---
 
-## 🌍 Connect
+## 📧 Connect
 
-- **📧 Email:** ejohn8915@gmail.com
+- **Email:** ejohn8915@gmail.com
